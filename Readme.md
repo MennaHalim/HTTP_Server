@@ -13,7 +13,7 @@ Implementation of part of the HTTP protocol using socket programming APIs.
  •	Length
  •	Date
  •	Location
-#Responses:
+# Responses:
  •	400 Bad Request
     I If there is any parsing error in the request.
 
@@ -45,7 +45,7 @@ should display main page
 http://localhost:1000/blabla.html
 should display 404 page.
 
-## gg
+
 
 
 
