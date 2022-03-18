@@ -7,13 +7,18 @@ Implementation of part of the HTTP protocol using socket programming APIs.
  
  •	Error handling
  
+ 
    o	Page Not found
+   
    
    o	Bad Request
    
+   
    o	Redirection
    
+   
    o	Internal Server Error
+   
    
  •	Response Headers includes:Content-Type, Length, Date,	Location.
 # Responses:
