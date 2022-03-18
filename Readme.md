@@ -1,6 +1,6 @@
 # Description:
 Implementation of part of the HTTP protocol using socket programming APIs.
-#Features:
+# Features:
  •	Threaded (multiple clients)
  •	GET method only (retrieve an HTML document).
  •	Error handling
