@@ -32,11 +32,17 @@ Implementation of part of the HTTP protocol using socket programming APIs.
       -	Check at least request line and host header andblank lines exist.
       
  •	301 Redirection Error
+ 
     If the URI exists in the configuration.RedirectionRules, then return 301 Redirection Error and add location header with the new redirected URI.
+    
  •	404 Not Found error.
+ 
     If the physical file is not found.
+    
 •	500 Internal Server Error.
+
    If there is any unknown exception.
+   
    
 # Test cases:
 Try the following URIs in the web browser:
