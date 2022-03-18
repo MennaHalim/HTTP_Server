@@ -43,7 +43,6 @@ Implementation of part of the HTTP protocol using socket programming APIs.
 
    If there is any unknown exception.
    
-   
 # Test cases:
 Try the following URIs in the web browser:
 
