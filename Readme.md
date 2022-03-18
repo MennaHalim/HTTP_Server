@@ -41,7 +41,7 @@ Implementation of part of the HTTP protocol using socket programming APIs.
     
 •	500 Internal Server Error.
 
-   If there is any unknown exception.
+    If there is any unknown exception.
    
 # Test cases:
 Try the following URIs in the web browser:
