@@ -8,16 +8,16 @@ Implementation of part of the HTTP protocol using socket programming APIs.
  •	Error handling
  
  
-   o	Page Not found
+   - Page Not found
    
    
-   o	Bad Request
+   - 	Bad Request
    
    
-   o	Redirection
+   - Redirection
    
    
-   o	Internal Server Error
+   - Internal Server Error
    
    
  •	Response Headers includes:Content-Type, Length, Date,	Location.
