@@ -2,17 +2,20 @@
 Implementation of part of the HTTP protocol using socket programming APIs.
 # Features:
  •	Threaded (multiple clients)
+ 
  •	GET method only (retrieve an HTML document).
+ 
  •	Error handling
+ 
    o	Page Not found
+   
    o	Bad Request
+   
    o	Redirection
+   
    o	Internal Server Error
- •	Response Headers includes 
- •	Content-Type
- •	Length
- •	Date
- •	Location
+   
+ •	Response Headers includes:Content-Type, Length, Date,	Location.
 # Responses:
  •	400 Bad Request
     I If there is any parsing error in the request.
